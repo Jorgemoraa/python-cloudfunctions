@@ -1,4 +1,4 @@
-# Python Cloud Functions!
+# Python Cloud Functions
 
 Author: Juan Vicente Herrera Ruiz de Alejo
 
